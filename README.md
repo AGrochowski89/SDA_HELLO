@@ -3,3 +3,4 @@
 NA GITHUB
 do lokalego
 do lokalnego2
+ok
